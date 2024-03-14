@@ -1,0 +1,29 @@
+[
+    {
+        "name": "kraken",
+        "url": "https://descriptor-libraries.molssi.org/kraken",
+        "logo": "https://descriptor-libraries.molssi.org/kraken/brand/logo_light.svg"
+    },
+    {
+        "name": "Carboxylic Acids",
+        "url": "https://descriptor-libraries.molssi.org/acids",
+        "logo": "https://descriptor-libraries.molssi.org/acids/brand/logo.svg"
+    },
+    {
+        "name": "Primary Alkyl Amines",
+        "url": "https://descriptor-libraries.molssi.org/primary-amines",
+        "logo": "https://descriptor-libraries.molssi.org/primary-amines/brand/logo.svg"
+
+    },
+    {
+        "name": "Secondary Alkyl Amines",
+        "url": "https://descriptor-libraries.molssi.org/secondary-amines",
+        "logo": "https://descriptor-libraries.molssi.org/secondary-amines/brand/logo.svg"
+    },
+
+    {
+        "name": "Combined Alkyl Amines",
+        "url": "https://descriptor-libraries.molssi.org/amines",
+        "logo": "https://descriptor-libraries.molssi.org/amines/brand/logo.svg"
+    }
+]
