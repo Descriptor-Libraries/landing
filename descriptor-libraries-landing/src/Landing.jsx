@@ -34,7 +34,7 @@ function Home() {
           alignItems: "center",
           justifyContent: "space-around",
           padding: 2,
-          height: !isMobile && "40vh",
+          height: !isMobile && "45vh",
         }}
       >
         <Box
