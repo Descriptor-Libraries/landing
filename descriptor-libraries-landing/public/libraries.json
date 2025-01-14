@@ -25,5 +25,17 @@
         "name": "Combined Alkyl Amines",
         "url": "https://descriptor-libraries.molssi.org/amines",
         "logo": "https://descriptor-libraries.molssi.org/amines/brand/logo.svg"
+    },
+
+    {
+        "name": "Anilines",
+        "url": "https://descriptor-libraries.molssi.org/anilines",
+        "logo": "https://descriptor-libraries.molssi.org/anilines/brand/logo.svg"
+    },
+
+    {
+        "name": "Sulfonimidamides",
+        "url": "https://descriptor-libraries.molssi.org/sulfonimidamides",
+        "logo": "https://descriptor-libraries.molssi.org/sulfonimidamides/brand/logo.svg"
     }
 ]
